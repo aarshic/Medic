@@ -18,6 +18,7 @@
   "homepage": "https://github.com/aarshic/Medic#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "mongoose": "^5.3.3",
     "request": "^2.88.0"
   }
 }
