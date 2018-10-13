@@ -4,7 +4,7 @@
   "description": "Given a medical symptom, list down the possible medical conditions/diagnosis and for any given diagnosis suggest various treatments.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/aarshic/Medic#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongoose": "^5.3.3",
+    "nodemon": "^1.18.4",
     "request": "^2.88.0"
   }
 }
