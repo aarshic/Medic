@@ -1,0 +1,23 @@
+{
+  "name": "medic_version_1",
+  "version": "1.0.0",
+  "description": "Given a medical symptom, list down the possible medical conditions/diagnosis and for any given diagnosis suggest various treatments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarshic/Medic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarshic/Medic/issues"
+  },
+  "homepage": "https://github.com/aarshic/Medic#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
