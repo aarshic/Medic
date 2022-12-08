@@ -18,10 +18,10 @@
   "homepage": "https://github.com/aarshic/Medic#readme",
   "dependencies": {
     "@google-cloud/storage": "^2.1.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cheerio": "^1.0.0-rc.2",
     "connect-timeout": "^1.9.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jsdom": "^12.2.0",
     "mongoose": "^5.3.4",
     "nodemon": "^1.18.4",
